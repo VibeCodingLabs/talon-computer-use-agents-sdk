@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/talon_bridge.py
+src/executors/__init__.py
+src/parser/__init__.py
+src/stt/__init__.py
+src/tts/__init__.py
+src/voice_computer_use_agents_sdk.egg-info/PKG-INFO
+src/voice_computer_use_agents_sdk.egg-info/SOURCES.txt
+src/voice_computer_use_agents_sdk.egg-info/dependency_links.txt
+src/voice_computer_use_agents_sdk.egg-info/requires.txt
+src/voice_computer_use_agents_sdk.egg-info/top_level.txt
+tests/test_schemas.py
